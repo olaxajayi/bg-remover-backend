@@ -2,5 +2,3 @@ fastapi
 uvicorn
 rembg
 python-multipart
-onnxruntime
-pillow
